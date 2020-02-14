@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f5ad04f-937b-485e-ad50-a5521135042e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Wpjyhhp1buMfrSasVYfqw6feIG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.dmitriikol.controller" />
+      <recent name="com.dmitriikol.repository" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dmit\IdeaProjects\DoodleKeep\src\main\resources\static\css" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DoodleKeep">
+    <configuration name="DoodleKeep" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.dmitriikol.Application" />
+      <module name="DoodleKeep-master" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NoteRepositoryTest.initTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DoodleKeep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dmitriikol.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dmitriikol.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.dmitriikol.repository.NoteRepositoryTest" />
+      <option name="METHOD_NAME" value="initTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRepositoryTest.initTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DoodleKeep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dmitriikol.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dmitriikol.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.dmitriikol.repository.UserRepositoryTest" />
+      <option name="METHOD_NAME" value="initTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserRepositoryTest.initTest" />
+        <item itemvalue="JUnit.NoteRepositoryTest.initTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f5ad04f-937b-485e-ad50-a5521135042e" name="Default Changelist" comment="" />
+      <created>1579853686909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579853686909</updated>
+      <workItem from="1581686527003" duration="8983000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="175" key="#DoodleKeep" timestamp="1581687834366">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="653" y="175" key="#DoodleKeep/0.0.1920.1040@0.0.1920.1040" timestamp="1581687834366" />
+    <state x="174" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579855704000">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="174" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1579855704000" />
+    <state x="165" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1579857473353">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="165" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1579857473353" />
+    <state width="1877" height="417" key="GridCell.Tab.0.bottom" timestamp="1581695139083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="162" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1579882617025" />
+    <state width="1877" height="417" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581695139083" />
+    <state width="1877" height="417" key="GridCell.Tab.0.center" timestamp="1581695139083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="162" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1579882617025" />
+    <state width="1877" height="417" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581695139083" />
+    <state width="1877" height="417" key="GridCell.Tab.0.left" timestamp="1581695139083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="162" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1579882617025" />
+    <state width="1877" height="417" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581695139083" />
+    <state width="1877" height="417" key="GridCell.Tab.0.right" timestamp="1581695139083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="162" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1579882617025" />
+    <state width="1877" height="417" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581695139083" />
+    <state width="1877" height="464" key="GridCell.Tab.1.bottom" timestamp="1581689837942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="464" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581689837942" />
+    <state width="1877" height="464" key="GridCell.Tab.1.center" timestamp="1581689837942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="464" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581689837942" />
+    <state width="1877" height="464" key="GridCell.Tab.1.left" timestamp="1581689837942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="464" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581689837942" />
+    <state width="1877" height="464" key="GridCell.Tab.1.right" timestamp="1581689837942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="464" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581689837942" />
+    <state x="295" y="87" key="SettingsEditor" timestamp="1581695634370">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="221" y="72" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1579858352524" />
+    <state x="295" y="87" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581695634370" />
+    <state x="415" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1579853692254">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="415" y="253" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1579853692254" />
+    <state x="491" y="132" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579880466236">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="491" y="132" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.860@0.0.1440.860" timestamp="1579880466236" />
+    <state x="702" y="145" key="refactoring.ChangeSignatureDialog" timestamp="1581691740493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="145" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581691740493" />
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1579857683747">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1579857683747" />
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title></title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link th:href="@{/css/add-user.css}" rel="stylesheet" />
+</head>
+<body>
+<div class="container">
+    <h2>Update Note</h2>
+    <form th:action="@{/updateNote}" method="post">
+        <label for="title1">Title</label><br>
+        <input type="text" id="title1" name="title" placeholder="Title" class="form-control"/>
+        <br>
+        <label for="text1">Note</label><br>
+        <input type="text" id="text1" name="text" placeholder="Text" class="form-control"/>
+        <input type="hidden" name="userID" th:value="${id_user}" />
+        <input type="hidden" name="noteID" th:value="${id_note}" />
+        <br>
+        <button class="btn btn-primary" type="submit">Update Note</button>
+    </form>
+</div>
+</body>
+</html>

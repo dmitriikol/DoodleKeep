@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title></title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link th:href="@{/css/index.css}" rel="stylesheet" />
+</head>
+<body>
+<div class="container">
+    <h3>Sign In</h3>
+    <table class="table">
+        <tr th:each="user: ${users}">
+            <td><button class="btn btn-secondary"><a th:href="@{/keep/{id}(id=${user.id})}" th:text="${user.name}"/></button></td>
+            <td><button class="btn btn-danger x"><a th:href="@{/deleteUser/{id}(id=${user.id})}"><b>X</b></a></button></td>
+        </tr>
+    </table>
+    <button type="submit" class="btn btn-secondary"><a th:href="@{/addUser}">Add user</a></button>
+</div>
+</body>
+</html>

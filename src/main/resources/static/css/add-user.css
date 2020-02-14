@@ -1,0 +1,18 @@
+.container {
+	display: block;
+	width: 370px;
+	margin: 0 auto;
+	margin-top: 40px;
+	border: 2px gray solid;
+	border-radius: 5px;
+	padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+a {
+    color: white;
+}
